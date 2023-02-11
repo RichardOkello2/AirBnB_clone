@@ -55,4 +55,4 @@ Ex:
 
 #### Author
 
-RichardOkello2@github.com
+[Alejandro Medina](https://github.com/mellab)
